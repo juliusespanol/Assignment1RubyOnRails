@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This project file was made with the help of this video link https://youtu.be/i2x995hm8r8
 
-Things you may want to cover:
 
-* Ruby version
+* Ruby on Rails 5.0
 
-* System dependencies
+* Sublime Text 2
 
-* Configuration
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Insights: It's my first time coding Ruby on Rails and I loved it. I hope that i can learn more about Ruby on Rails.
